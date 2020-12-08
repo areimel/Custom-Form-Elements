@@ -39,9 +39,8 @@
 
 /***** CUSTOM RADIO BUTTON *****/
 		.custom_radio {
-			
-			color: var(--black_1);
-			background-color: var(--white_1);
+			color: inherit;
+			background-color: transpoarent;
 			padding: 10px;
 			display: flex;
 			flex-direction: column;
