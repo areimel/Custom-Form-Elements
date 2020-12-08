@@ -3,9 +3,7 @@
 
 ## Codepen Demo
 
-<p class="codepen" data-height="265" data-theme-id="dark" data-default-tab="html,result" data-user="areimel" data-slug-hash="yLaJpXN" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Custom Form Elements Demo">
-  <span>See the Pen <a href="https://codepen.io/areimel/pen/yLaJpXN">
-  Custom Form Elements Demo</a> by Alec Reimel (<a href="https://codepen.io/areimel">@areimel</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<iframe height="305" style="width: 100%;" scrolling="no" title="Custom Form Elements Demo" src="https://codepen.io/areimel/embed/yLaJpXN?height=305&theme-id=dark&default-tab=css,result" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
+  See the Pen <a href='https://codepen.io/areimel/pen/yLaJpXN'>Custom Form Elements Demo</a> by Alec Reimel
+  (<a href='https://codepen.io/areimel'>@areimel</a>) on <a href='https://codepen.io'>CodePen</a>.
+</iframe>
