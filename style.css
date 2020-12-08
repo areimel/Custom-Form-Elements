@@ -36,3 +36,40 @@
 		.custom_checkbox input[type="checkbox"]:checked + .box .uncheck {
 			display: none;
 		}
+
+/***** CUSTOM RADIO BUTTON *****/
+		.custom_radio {
+			
+			color: var(--black_1);
+			background-color: var(--white_1);
+			padding: 10px;
+			display: flex;
+			flex-direction: column;
+			align-items: flex-start;
+			justify-content: flex-start;
+		}
+		.custom_radio>label{
+			position: relative;
+			cursor: pointer;
+			padding: 5px;
+		}
+		.custom_radio input[type="radio"] {
+			opacity: 0;
+			position: absolute;
+		}
+
+		/* Unchecked style */
+			.custom_radio input[type="radio"] + .box .check {
+				display: none;
+			}
+			.custom_radio input[type="radio"] + .box .uncheck {
+				display: inline-block;
+			}
+
+		/* Checked style */
+			.custom_radio input[type="radio"]:checked + .box .check {
+				display: inline-block;
+			}
+			.custom_radio input[type="radio"]:checked + .box .uncheck {
+				display: none;
+			}
